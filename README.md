@@ -1,4 +1,4 @@
-<img src="https://github.com/Nkunim2023/ReneWind/blob/main/ReneWind%20.jpg?raw=true" alt="ReneWind Project"/>
+<img src="https://i.imgur.com/njQxBoM.jpg" height="40%" width="90%" alt="ReneWind Project"/>
 
 
 <h2>Description</h2>
