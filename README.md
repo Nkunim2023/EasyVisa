@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/njQxBoM.jpg" height="40%" width="90%" alt="ReneWind Project"/>
+## EasyVisa
+
+<img src="https://github.com/Nkunim2023/EasyVisa/blob/main/EasyVisa.png?raw=true" alt="ReneWind Project"/>
 
 
 <h2>Description</h2>
