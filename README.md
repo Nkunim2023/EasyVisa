@@ -12,80 +12,27 @@ ReneWind" is a company working on improving the machinery/processes involved in 
 - Regularization
 - Hyperparametertuning
 
+
+## Python Libraries Used
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+
 <h2>Below is my presentation slides:</h2>
 
 <p align="center">
-ReneWind Project: <br/>
-<img src="https://i.imgur.com/SMMfFIt.png[/img]" height="80%" width="80%" alt="ReneWind Project"/>
+INN Hotels Project: <br/>
+<img src=".png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
 <br />
-Presentation Outline:  <br/>
-<img src="https://i.imgur.com/hnD6Hgq.png" height="80%" width="80%" alt="ReneWind Project"/>
+Business Summary: <br/>
+<img src=".png" height="80%" width="80%" alt="ReneWind Project"/>
 <br />
-<br />
-Business Insights and Recommandations: <br/>
-<img src="https://i.imgur.com/UbSKPw0.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Performing Exploratory Data Analysis Results:  <br/>
-<img src="https://i.imgur.com/SHNPn93.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-EDA Results - Univariate Analysis:  <br/>
-<img src="https://i.imgur.com/keZExjd.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Model Performance Summary:  <br/>
-<img src="https://i.imgur.com/8e99VXv.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Training Performance Comparison:  <br/>
-<img src="https://i.imgur.com/E6w6QHT.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Validation Performance Comparison:  <br/>
-<img src="https://i.imgur.com/ANTDIf1.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Xgboost Tuned With Undersampled Test Data Performance:  <br/>
-<img src="https://i.imgur.com/83kNvlA.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Feature Importances:  <br/>
-<img src="https://i.imgur.com/XHMdQrN.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Final Model Selection:  <br/>
-<img src="https://i.imgur.com/9pFi8ta.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Testing Final Model Using Pipelines:  <br/>
-<img src="https://i.imgur.com/zNsGbDb.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Summary of Most Important Factors used with model:  <br/>
-<img src="https://i.imgur.com/f5VkJYX.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Model Performance on Original Data:  <br/>
-<img src="https://i.imgur.com/BmyI0gd.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Model Performance with Oversampled Data:  <br/>
-<img src="https://i.imgur.com/Jet9H45.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Model Building With Undersampled Data:  <br/>
-<img src="https://i.imgur.com/KKVkwhZ.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Performing Hyperparameter Tuning:  <br/>
-<img src="https://i.imgur.com/HE8Vb4z.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
-<br />
-Performing Hyperparameter Tuning: <br/>
-<img src="https://i.imgur.com/jj8Uz94.png" height="80%" width="80%" alt="ReneWind Project"/>
-<br />
+
+
 
 
 
